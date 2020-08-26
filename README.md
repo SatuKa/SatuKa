@@ -19,6 +19,8 @@ Feel free to take a look what i'm working on. Most of my projects are school ass
 (detailed information about the assignments can be found in the readme). 
 In addition, here are a few tutorials / works I have done on workshops (please see readme for details). 
 Hopefully I can publish the first 100% self-made projects soon. 
+
+
 ___
 Programming languages: Java, Python, JavaScript, R, SQL, SAS
 
