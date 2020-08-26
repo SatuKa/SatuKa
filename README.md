@@ -1,4 +1,4 @@
-### Hi there, nice to meet you 👋
+:smiley: :speech_balloon: ### Hi there, nice to meet you 👋
 
 <!--
 **SatuKa/SatuKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
