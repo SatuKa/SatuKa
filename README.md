@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, nice to meet you 👋
 
 <!--
 **SatuKa/SatuKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-Programming languages: 
-  Array languages: R
-  Assembly languages: 
-  Data-oriented languages: SQL
-  4th generation languages: SAS (on progress!)
-  General purpose languages: Java, JavaScript, Python
+Feel free to take a look what i'm working on. Most of my projects are school assignments 
+(detailed information about the assignments can be found in the readme). 
+In addition, here are a few tutorials / works I have done on workshops (please see readme for details). 
+Hopefully I can publish the first 100% self-made projects soon. 
+___
+Programming languages: Java, Python, JavaScript, R, SQL, SAS
 Frameworks: Bootstrap, React
 Editor: Visual Studio Code, Sublime text
 
-![](https://img.shields.io/badge/<Code>-<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<SQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
