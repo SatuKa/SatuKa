@@ -23,10 +23,10 @@ Hopefully I can publish the first 100% self-made projects soon.
 
 
 ___
-Programming languages :point_right: Java, Python, JavaScript, R, SQL, SAS
+Programming languages :arrow_right: Java, Python, JavaScript, R, SQL, SAS
 
-Frameworks :point_right: Bootstrap, React
+Frameworks :arrow_right: Bootstrap, React
 
-Editor :point_right: Visual Studio Code, Sublime text
+Editor :arrow_right: Visual Studio Code, Sublime text
 
 
