@@ -15,17 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-Feel free to take a look what i'm working on. Most of my projects are school assignments 
+Feel free to take a look what i'm working on. :open_file_folder: :eyes:
+Most of my projects are school assignments 
 (detailed information about the assignments can be found in the readme). 
 In addition, here are a few tutorials / works I have done on workshops (please see readme for details). 
 Hopefully I can publish the first 100% self-made projects soon. 
 
 
 ___
-Programming languages: Java, Python, JavaScript, R, SQL, SAS
+Programming languages :point_right: Java, Python, JavaScript, R, SQL, SAS
 
-Frameworks: Bootstrap, React
+Frameworks :point_right: Bootstrap, React
 
-Editor: Visual Studio Code, Sublime text
+Editor :point_right: Visual Studio Code, Sublime text
 
 
