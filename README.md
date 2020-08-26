@@ -21,7 +21,9 @@ In addition, here are a few tutorials / works I have done on workshops (please s
 Hopefully I can publish the first 100% self-made projects soon. 
 ___
 Programming languages: Java, Python, JavaScript, R, SQL, SAS
+
 Frameworks: Bootstrap, React
+
 Editor: Visual Studio Code, Sublime text
 
 
