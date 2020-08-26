@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Feel free to take a look what i'm working on. :open_file_folder: :eyes:
-Most of my projects are school assignments 
-(detailed information about the assignments can be found in the readme). 
-In addition, here are a few tutorials / works I have done on workshops (please see readme for details). 
-Hopefully I can publish the first 100% self-made projects soon. 
 
+Most of my projects are school assignments 
+(detailed information about the assignments can be found in the readme). The hardest thing i studied was assembly :dizzy_face 
+I still don't understand how it works and i may not dare to open that repo to you.
+In addition, here are a few tutorials / works i have done on workshops (please see readme for details). There is nothing miraculous about them 
+but thanks to them I find that I have developed enormously. 
+Thanks to school assignments and workshops, i can soon publish my own projects. 
 
 ___
 Programming languages :arrow_right: Java, Python, JavaScript, R, SQL, SAS
