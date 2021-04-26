@@ -1,5 +1,6 @@
 :smiley: :speech_balloon:Hi there, nice to meet you 👋
 
+I am information management specialist in the public sector. In my current job i collect and analyze data, generate reports and manage & maintain databases (so i know something about RDBMS & SQL). Aside from that i have hands-on experience in testing. I also maintain a couple of websites but i would like to code more - and that is why i am studying more. Hopefully one day i can switch to more technical jobs. 
 ___
 <!--
 **SatuKa/SatuKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +26,7 @@ Most of my projects are school assignments
 I still don't understand how it works and i may not dare to open that repo to you.
 In addition, here are a few tutorials / works i have done on workshops (please see readme for details). There is nothing miraculous about them 
 but thanks to them I find that I have developed enormously. 
-Thanks to school assignments and workshops, i can soon publish my own projects. 
+
 
 ___
 
